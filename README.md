@@ -7,46 +7,36 @@ Project Tasks:
 
 * Google Play Store Apps and Reviews:
 
-Collect data from the Google Play Store, including app details and user reviews.
-Gather a vast dataset to ensure comprehensive coverage of the Android app market.
+  Collect data from the Google Play Store, including app details and user reviews. Gather a vast dataset to ensure comprehensive coverage of the Android app market.
 * Data Cleaning:
 
-Thoroughly clean and preprocess the collected data to remove duplicates, missing values, and inconsistencies.
-Ensure data accuracy for reliable analysis.
+  Thoroughly clean and preprocess the collected data to remove duplicates, missing values, and inconsistencies. Ensure data accuracy for reliable analysis.
 * Correcting Data Types:
 
-Transform data types as needed to facilitate meaningful analysis.
-Ensure data uniformity for consistent evaluation.
+  Transform data types as needed to facilitate meaningful analysis. Ensure data uniformity for consistent evaluation.
 * Exploring App Categories:
 
-Categorize apps based on their primary functions and genres.
-Identify popular app categories to understand market trends.
+  Categorize apps based on their primary functions and genres. Identify popular app categories to understand market trends.
 * Distribution of App Ratings:
 
-Analyze the distribution of app ratings to assess overall user satisfaction.
-Identify the prevalence of highly-rated and poorly-rated apps.
+  Analyze the distribution of app ratings to assess overall user satisfaction. Identify the prevalence of highly-rated and poorly-rated apps.
 * Size and Price of an App:
 
-Examine the relationship between app size and user ratings.
-Investigate the pricing strategies of various apps within different categories.
-Relation Between App Category and App Price:
+  Examine the relationship between app size and user ratings. Investigate the pricing strategies of various apps within different categories.
+* Relation Between App Category and App Price:
 
-Determine how app categories influence pricing.
-Explore whether certain categories tend to offer more free or paid apps.
+  Determine how app categories influence pricing. Explore whether certain categories tend to offer more free or paid apps.
 * Filter Out "Junk" Apps:
 
-Implement criteria to filter out low-quality or irrelevant apps.
-Focus on analyzing apps with real market value.
+  Implement criteria to filter out low-quality or irrelevant apps. Focus on analyzing apps with real market value.
 * Popularity of Paid Apps vs. Free Apps:
 
-Compare the popularity and download trends of paid and free apps.
-Assess the factors that contribute to the success of paid apps.
+  Compare the popularity and download trends of paid and free apps. Assess the factors that contribute to the success of paid apps.
 * Sentiment Analysis of User Reviews:
 
-Utilize sentiment analysis techniques to gauge user opinions.
-Understand user sentiment towards different app categories and features.
+  Utilize sentiment analysis techniques to gauge user opinions. Understand user sentiment towards different app categories and features.
 * Expected Outcomes:
-The Market Analysis of Android App project aims to deliver a comprehensive report with insights that can inform business strategies, marketing campaigns, and app development decisions. The outcomes include:
+  The Market Analysis of Android App project aims to deliver a comprehensive report with insights that can inform business strategies, marketing campaigns, and app development decisions. The outcomes include:
 
 Trends and patterns in app categories and their relation to user preferences.
 Pricing strategies that maximize profitability while attracting users.
