@@ -47,3 +47,24 @@ This project provides valuable information for stakeholders looking to thrive in
 
 ### App Categories
 ![image](https://github.com/ZeltraX007/Market-Analysis-Android-App/assets/74448579/4242418a-d093-4fbc-8949-9072eb7069fc)
+
+### App Rating
+![image](https://github.com/ZeltraX007/Market-Analysis-Android-App/assets/74448579/9c830ab1-1730-42ae-8741-07cb4644e6bd)
+
+### Size and Price VS Rating
+![image](https://github.com/ZeltraX007/Market-Analysis-Android-App/assets/74448579/84ea09cf-0105-4e82-82ea-fc4a35100dbf)
+![image](https://github.com/ZeltraX007/Market-Analysis-Android-App/assets/74448579/b4578eed-29e7-4964-8e0a-d065b33e5552)
+
+### App Category VS Price
+![image](https://github.com/ZeltraX007/Market-Analysis-Android-App/assets/74448579/13bebacb-839c-460f-aa4e-d537ebd085a5)
+
+### Free VS Paid
+![image](https://github.com/ZeltraX007/Market-Analysis-Android-App/assets/74448579/77324665-2d4f-4416-8b9b-c4a7a3738c37)
+
+### Sentiment Analysis
+![image](https://github.com/ZeltraX007/Market-Analysis-Android-App/assets/74448579/24906a61-e99f-4fc1-9640-644bd5ed6ff5)
+
+
+
+
+
